@@ -1,0 +1,9 @@
+Graph Separator
+Overview
+This program looks at connections between points (or vertices) in a graph to find out how many separate groups (or
+disconnected graphs) there are. The input includes pairs of positive numbers that show which points are connected.
+
+Features
+Enter a positive number 𝑛 to indicate how many connections there are.
+Input n pairs of positive numbers that represent connections in the graph.
+The program will calculate and show how many separate graphs are in the input
